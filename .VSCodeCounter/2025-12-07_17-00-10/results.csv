@@ -1,0 +1,30 @@
+"filename", "language", "Ini", "C++", "comment", "blank", "total"
+"c:\Users\Admin\Documents\PlatformIO\Projects\NVC BETA3\include\adc_dma.h", "C++", 0, 6, 0, 5, 11
+"c:\Users\Admin\Documents\PlatformIO\Projects\NVC BETA3\include\cli.h", "C++", 0, 0, 0, 1, 1
+"c:\Users\Admin\Documents\PlatformIO\Projects\NVC BETA3\include\config.h", "C++", 0, 106, 25, 42, 173
+"c:\Users\Admin\Documents\PlatformIO\Projects\NVC BETA3\include\debug.h", "C++", 0, 22, 40, 10, 72
+"c:\Users\Admin\Documents\PlatformIO\Projects\NVC BETA3\include\encoders.h", "C++", 0, 14, 0, 7, 21
+"c:\Users\Admin\Documents\PlatformIO\Projects\NVC BETA3\include\maze.h", "C++", 0, 300, 170, 53, 523
+"c:\Users\Admin\Documents\PlatformIO\Projects\NVC BETA3\include\motion.h", "C++", 0, 99, 58, 30, 187
+"c:\Users\Admin\Documents\PlatformIO\Projects\NVC BETA3\include\motors.h", "C++", 0, 167, 80, 28, 275
+"c:\Users\Admin\Documents\PlatformIO\Projects\NVC BETA3\include\mouse.h", "C++", 0, 639, 255, 55, 949
+"c:\Users\Admin\Documents\PlatformIO\Projects\NVC BETA3\include\mpu.h", "C++", 0, 14, 0, 4, 18
+"c:\Users\Admin\Documents\PlatformIO\Projects\NVC BETA3\include\profile.h", "C++", 0, 171, 42, 25, 238
+"c:\Users\Admin\Documents\PlatformIO\Projects\NVC BETA3\include\queue.h", "C++", 0, 47, 3, 8, 58
+"c:\Users\Admin\Documents\PlatformIO\Projects\NVC BETA3\include\reporting.h", "C++", 0, 179, 267, 34, 480
+"c:\Users\Admin\Documents\PlatformIO\Projects\NVC BETA3\include\sensors.cpp", "C++", 0, 0, 13, 2, 15
+"c:\Users\Admin\Documents\PlatformIO\Projects\NVC BETA3\include\sensors.h", "C++", 0, 206, 96, 33, 335
+"c:\Users\Admin\Documents\PlatformIO\Projects\NVC BETA3\include\systick.h", "C++", 0, 5, 0, 3, 8
+"c:\Users\Admin\Documents\PlatformIO\Projects\NVC BETA3\include\test.h", "C++", 0, 5, 31, 1, 37
+"c:\Users\Admin\Documents\PlatformIO\Projects\NVC BETA3\include\vbat.h", "C++", 0, 9, 2, 4, 15
+"c:\Users\Admin\Documents\PlatformIO\Projects\NVC BETA3\platformio.ini", "Ini", 14, 0, 11, 5, 30
+"c:\Users\Admin\Documents\PlatformIO\Projects\NVC BETA3\src\adc_dma.cpp", "C++", 0, 53, 10, 14, 77
+"c:\Users\Admin\Documents\PlatformIO\Projects\NVC BETA3\src\config.cpp", "C++", 0, 9, 5, 4, 18
+"c:\Users\Admin\Documents\PlatformIO\Projects\NVC BETA3\src\debug.cpp", "C++", 0, 28, 4, 3, 35
+"c:\Users\Admin\Documents\PlatformIO\Projects\NVC BETA3\src\encoders.cpp", "C++", 0, 145, 9, 18, 172
+"c:\Users\Admin\Documents\PlatformIO\Projects\NVC BETA3\src\main.cpp", "C++", 0, 110, 23, 19, 152
+"c:\Users\Admin\Documents\PlatformIO\Projects\NVC BETA3\src\mpu.cpp", "C++", 0, 56, 1, 10, 67
+"c:\Users\Admin\Documents\PlatformIO\Projects\NVC BETA3\src\systick.cpp", "C++", 0, 24, 4, 6, 34
+"c:\Users\Admin\Documents\PlatformIO\Projects\NVC BETA3\src\test.cpp", "C++", 0, 0, 1180, 148, 1328
+"c:\Users\Admin\Documents\PlatformIO\Projects\NVC BETA3\src\vbat.cpp", "C++", 0, 28, 3, 7, 38
+"Total", "-", 14, 2442, 2332, 579, 5367

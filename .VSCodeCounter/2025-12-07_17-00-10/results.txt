@@ -1,0 +1,56 @@
+Date : 2025-12-07 17:00:10
+Directory : c:\Users\Admin\Documents\PlatformIO\Projects\NVC BETA3
+Total : 28 files,  2456 codes, 2332 comments, 579 blanks, all 5367 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| C++      |         27 |      2,442 |      2,321 |        574 |      5,337 |
+| Ini      |          1 |         14 |         11 |          5 |         30 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++----------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                       | files      | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                          |         28 |      2,456 |      2,332 |        579 |      5,367 |
+| . (Files)                                                                  |          1 |         14 |         11 |          5 |         30 |
+| include                                                                    |         18 |      1,989 |      1,082 |        345 |      3,416 |
+| src                                                                        |          9 |        453 |      1,239 |        229 |      1,921 |
++----------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++----------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                   | language | code       | comment    | blank      | total      |
++----------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| c:\Users\Admin\Documents\PlatformIO\Projects\NVC BETA3\include\adc_dma.h   | C++      |          6 |          0 |          5 |         11 |
+| c:\Users\Admin\Documents\PlatformIO\Projects\NVC BETA3\include\cli.h       | C++      |          0 |          0 |          1 |          1 |
+| c:\Users\Admin\Documents\PlatformIO\Projects\NVC BETA3\include\config.h    | C++      |        106 |         25 |         42 |        173 |
+| c:\Users\Admin\Documents\PlatformIO\Projects\NVC BETA3\include\debug.h     | C++      |         22 |         40 |         10 |         72 |
+| c:\Users\Admin\Documents\PlatformIO\Projects\NVC BETA3\include\encoders.h  | C++      |         14 |          0 |          7 |         21 |
+| c:\Users\Admin\Documents\PlatformIO\Projects\NVC BETA3\include\maze.h      | C++      |        300 |        170 |         53 |        523 |
+| c:\Users\Admin\Documents\PlatformIO\Projects\NVC BETA3\include\motion.h    | C++      |         99 |         58 |         30 |        187 |
+| c:\Users\Admin\Documents\PlatformIO\Projects\NVC BETA3\include\motors.h    | C++      |        167 |         80 |         28 |        275 |
+| c:\Users\Admin\Documents\PlatformIO\Projects\NVC BETA3\include\mouse.h     | C++      |        639 |        255 |         55 |        949 |
+| c:\Users\Admin\Documents\PlatformIO\Projects\NVC BETA3\include\mpu.h       | C++      |         14 |          0 |          4 |         18 |
+| c:\Users\Admin\Documents\PlatformIO\Projects\NVC BETA3\include\profile.h   | C++      |        171 |         42 |         25 |        238 |
+| c:\Users\Admin\Documents\PlatformIO\Projects\NVC BETA3\include\queue.h     | C++      |         47 |          3 |          8 |         58 |
+| c:\Users\Admin\Documents\PlatformIO\Projects\NVC BETA3\include\reporting.h | C++      |        179 |        267 |         34 |        480 |
+| c:\Users\Admin\Documents\PlatformIO\Projects\NVC BETA3\include\sensors.cpp | C++      |          0 |         13 |          2 |         15 |
+| c:\Users\Admin\Documents\PlatformIO\Projects\NVC BETA3\include\sensors.h   | C++      |        206 |         96 |         33 |        335 |
+| c:\Users\Admin\Documents\PlatformIO\Projects\NVC BETA3\include\systick.h   | C++      |          5 |          0 |          3 |          8 |
+| c:\Users\Admin\Documents\PlatformIO\Projects\NVC BETA3\include\test.h      | C++      |          5 |         31 |          1 |         37 |
+| c:\Users\Admin\Documents\PlatformIO\Projects\NVC BETA3\include\vbat.h      | C++      |          9 |          2 |          4 |         15 |
+| c:\Users\Admin\Documents\PlatformIO\Projects\NVC BETA3\platformio.ini      | Ini      |         14 |         11 |          5 |         30 |
+| c:\Users\Admin\Documents\PlatformIO\Projects\NVC BETA3\src\adc_dma.cpp     | C++      |         53 |         10 |         14 |         77 |
+| c:\Users\Admin\Documents\PlatformIO\Projects\NVC BETA3\src\config.cpp      | C++      |          9 |          5 |          4 |         18 |
+| c:\Users\Admin\Documents\PlatformIO\Projects\NVC BETA3\src\debug.cpp       | C++      |         28 |          4 |          3 |         35 |
+| c:\Users\Admin\Documents\PlatformIO\Projects\NVC BETA3\src\encoders.cpp    | C++      |        145 |          9 |         18 |        172 |
+| c:\Users\Admin\Documents\PlatformIO\Projects\NVC BETA3\src\main.cpp        | C++      |        110 |         23 |         19 |        152 |
+| c:\Users\Admin\Documents\PlatformIO\Projects\NVC BETA3\src\mpu.cpp         | C++      |         56 |          1 |         10 |         67 |
+| c:\Users\Admin\Documents\PlatformIO\Projects\NVC BETA3\src\systick.cpp     | C++      |         24 |          4 |          6 |         34 |
+| c:\Users\Admin\Documents\PlatformIO\Projects\NVC BETA3\src\test.cpp        | C++      |          0 |      1,180 |        148 |      1,328 |
+| c:\Users\Admin\Documents\PlatformIO\Projects\NVC BETA3\src\vbat.cpp        | C++      |         28 |          3 |          7 |         38 |
+| Total                                                                      |          |      2,456 |      2,332 |        579 |      5,367 |
++----------------------------------------------------------------------------+----------+------------+------------+------------+------------+
